@@ -1,3 +1,5 @@
+#Overview
+This React application showcases a simple accordion component with three collapsible sections. Additionally, it includes a toggle button to switch between light and dark modes, providing users with a customizable viewing experience.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
